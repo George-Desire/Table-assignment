@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    width: 900px;
+}
+.tab{
+    height: 30px;
+    width: 25px;
+    background-color: green;
+}
+.header{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+table,th,td{
+    width: 900px;
+    border: 1px solid rgb(235, 234, 232);
+    border-collapse: collapse;
+    border-spacing: 5px;
+    height: 20px;
+    font-size: small;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.table-e{
+    width: 500px;
+    margin-left: 5pxx;
+}
+.A{
+    background-color: green;
+    width: 900px;
+    color: white;
+    text-align: left;
+}
+.table-a{
+    margin-bottom: 20PX;
+}
+.table-b{
+    margin-bottom: 20px;
+}
+.table-c{
+    margin-bottom: 20px
+
+}
+.table-d{
+    margin-top: 1px;
+    margin-bottom: 20px;
+
+}
+.table-e{
+    margin-bottom: 30px
+}
+.B{
+    background-color: green;
+    width: 501px;
+    text-align: left;
+}
+#ter{
+    color: white;
+}
+form{
+    text-align: right;
+    border-top: 1px solid black;
+    margin-left: 48rem;
+}
